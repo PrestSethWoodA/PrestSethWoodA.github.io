@@ -144,7 +144,7 @@ nav h1 {
 }
 
 .nav-li a {
-  color: #666;
+  color: #000000;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
@@ -160,19 +160,19 @@ nav h1 {
   color: #fff;
 }
 nav {
-  background: #1a1a2e;
-  border-color: #1a1a2e;
+  background: #000000;
+  border-color: #ff6f10;
 }
 
 nav h1 {
-  color: #e94560;
+  color: #ff6b15;
 }
 
 .nav-li a {
-  color: #a8b2d8;
+  color: #ff7231;
 }
 
 .nav-li a:hover {
-  background: #e94560;
-  color: #fff;
+  background: #ff7d26;
+  color: #000000;
 }
